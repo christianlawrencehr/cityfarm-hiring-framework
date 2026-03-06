@@ -1,74 +1,153 @@
-# CityFarm Insurance – Evidence-Based Hiring Framework
+# CityFarm Insurance – Evidence-Based Hiring System
 
 ## Overview
 
-This project demonstrates the design of an evidence-based hiring system for a **Customer Service Manager** role at a fictional insurance company, CityFarm Insurance.
+This project presents a comprehensive redesign of the hiring system for **CityFarm Insurance’s Underwriting Division**, focusing on the **Customer Service Manager** role.
 
-The objective was to replace an informal hiring process with a **structured, legally defensible selection system** grounded in industrial-organizational psychology and human resource management best practices.
+The objective of the project was to replace an inconsistent and subjective hiring process with an **evidence-based, legally defensible selection framework** grounded in modern Human Resource Management and Industrial–Organizational psychology principles.
 
-The framework emphasizes **predictive validity, fairness, and job-relevant evaluation criteria**.
+The proposed system integrates:
 
----
+* structured job analysis
+* targeted recruiting strategy
+* standardized interview processes
+* work-sample testing
+* objective scoring methods
 
-## Problem
-
-CityFarm Insurance experienced several hiring challenges:
-
-* inconsistent candidate evaluation
-* high turnover among customer service leaders
-* lack of standardized interview practices
-* limited evidence that hiring decisions predicted job performance
-
-These issues created risk for both **organizational performance and employment law compliance**.
+Together, these elements create a **more reliable, fair, and data-driven hiring system**.
 
 ---
 
-## Solution
+## Organizational Context
 
-A structured hiring system was developed using evidence-based selection methods.
+CityFarm Insurance is a mid-sized insurance organization where underwriting performance directly impacts profitability and customer satisfaction.
 
-The system includes:
+Leadership identified several issues in the existing hiring process:
 
-* **Job analysis** to identify core competencies and performance requirements
-* **Behaviorally Anchored Rating Scales (BARS)** to standardize candidate evaluation
-* **Structured interview guides** to reduce interviewer bias
-* **Work-sample testing** to simulate real job responsibilities
+* unclear role expectations
+* inconsistent recruiting practices
+* subjective interview evaluations
+* lack of job-related assessment tools
 
-This approach improves the likelihood that hiring decisions are based on **observable, job-relevant behaviors rather than subjective impressions**.
-
----
-
-## Key Components
-
-### Job Analysis
-
-A structured job analysis was conducted to identify the critical competencies required for success in the Customer Service Manager role.
-
-These competencies informed the design of all selection tools.
+To address these challenges, leadership called for a **complete redesign of the hiring process** to ensure stronger hiring decisions and improved organizational performance.
 
 ---
 
-### Behaviorally Anchored Rating Scales (BARS)
+## Project Objectives
 
-BARS were developed to evaluate candidate responses against clearly defined behavioral benchmarks.
+The hiring system redesign aimed to:
 
-This improves consistency between interviewers and strengthens evaluation reliability.
+* establish clear competency requirements for the role
+* improve the reliability and validity of hiring decisions
+* reduce bias and subjectivity in candidate evaluation
+* strengthen legal defensibility in the selection process
+* improve long-term quality of hire and employee retention
+
+---
+
+## Hiring System Framework
+
+The redesigned hiring system includes several integrated components.
+
+### Job Analysis & Competency Modeling
+
+The process begins with a structured job analysis to identify the responsibilities, competencies, and performance expectations of the Customer Service Manager role.
+
+Methods include:
+
+* structured interviews with incumbents and supervisors
+* surveys of relevant stakeholders
+* observation of job activities
+
+The outcome is a competency-based job description that informs all later hiring stages.
+
+---
+
+### Recruiting Strategy
+
+A targeted recruiting strategy was developed to attract candidates with both **leadership capability and underwriting knowledge**.
+
+Key elements include:
+
+* targeted outreach to insurance industry professionals
+* collaboration between HR recruiters and underwriting subject matter experts
+* messaging that highlights leadership responsibility and technical credibility
+
+Recruitment effectiveness is evaluated using metrics such as:
+
+* cost per qualified applicant
+* quality of hire
+* time to productivity
+
+---
+
+### Structured Interview Design
+
+To improve reliability and reduce interviewer bias, the project introduces **Behaviorally Anchored Rating Scales (BARS)**.
+
+These scales provide clearly defined behavioral benchmarks for evaluating candidate responses across several competencies, including:
+
+* technical underwriting knowledge
+* communication skills
+* problem-solving ability
+
+Using anchored scoring improves consistency across interviewers and strengthens predictive validity.
 
 ---
 
 ### Work-Sample Assessment
 
-Candidates complete a **90-minute simulation exercise** designed to mirror real challenges faced by customer service leaders.
+Candidates complete a **realistic underwriting simulation** in which they review sample insurance applications and make coverage decisions.
 
-Work-sample testing is widely recognized as one of the **strongest predictors of job performance**.
+The exercise evaluates:
+
+* risk assessment ability
+* application of underwriting guidelines
+* clarity of reasoning and communication
+
+Work-sample tests are widely recognized as one of the **strongest predictors of job performance** in employee selection research.
 
 ---
 
-### Structured Interview Process
+### Integrated Candidate Evaluation
 
-Interview questions were standardized and linked directly to job competencies identified in the job analysis.
+The final hiring decision incorporates multiple sources of evidence, including:
 
-Structured interviews reduce bias and improve decision quality.
+* job analysis results
+* structured interviews
+* work-sample performance
+* assessment scores
+
+A weighted scoring approach ensures that hiring decisions are based on **job-related evidence rather than subjective impressions**.
+
+---
+
+## Expected Organizational Impact
+
+Implementing this system would provide CityFarm Insurance with several strategic benefits:
+
+* stronger hiring accuracy
+* reduced turnover and training costs
+* improved fairness and transparency in hiring decisions
+* stronger legal defensibility of selection practices
+* enhanced employer reputation among candidates
+
+Ultimately, the redesign positions CityFarm as a **data-driven and forward-thinking employer**.
+
+---
+
+## Project Artifacts
+
+This repository includes several supporting deliverables from the hiring system design process:
+
+* Job Analysis Report
+* Recruiting Strategy Plan
+* Selection Assessment Design
+* Behaviorally Anchored Rating Scales (BARS)
+* Work-Sample Assessment Design
+* Executive Hiring System Overhaul Presentation
+
+These materials demonstrate how the hiring system was developed and how each component contributes to a more effective and defensible selection process.
 
 ---
 
@@ -76,23 +155,18 @@ Structured interviews reduce bias and improve decision quality.
 
 This project demonstrates competencies in:
 
-* Talent acquisition strategy
-* Evidence-based HR decision making
-* Selection system design
-* Employment law awareness
-* Organizational analysis
-
----
-
-## Project Context
-
-This framework was developed as part of graduate coursework in **Human Resource Management**.
-
-The project simulates the type of consulting engagement HR professionals might conduct when redesigning an organization's hiring process.
+* talent acquisition strategy
+* job analysis and competency modeling
+* structured interview design
+* selection assessment development
+* HR analytics and decision frameworks
+* employment law awareness
+* evidence-based HR practices
 
 ---
 
 ## Author
 
 Christian Lawrence
-Human Resource Management Graduate Student
+Graduate Student – Human Resource Management
+Wichita State University
