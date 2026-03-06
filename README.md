@@ -138,14 +138,14 @@ Ultimately, the redesign positions CityFarm as a **data-driven and forward-think
 
 ## Project Artifacts
 
-This repository includes several supporting deliverables from the hiring system design process:
+This repository includes several deliverables developed as part of the hiring system design.
 
-* Job Analysis Report
-* Recruiting Strategy Plan
-* Selection Assessment Design
-* Behaviorally Anchored Rating Scales (BARS)
-* Work-Sample Assessment Design
-* Executive Hiring System Overhaul Presentation
+- Job Analysis Report
+- Recruiting Strategy Plan
+- Selection Assessment Design
+- Behaviorally Anchored Rating Scales (BARS)
+- Work Sample Assessment Design
+- Executive Hiring System Overhaul Presentation
 
 These materials demonstrate how the hiring system was developed and how each component contributes to a more effective and defensible selection process.
 
